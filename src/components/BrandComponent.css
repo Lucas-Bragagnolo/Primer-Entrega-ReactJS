@@ -1,0 +1,13 @@
+
+.brand a{
+    text-align: center;
+    color: white;
+    padding: 0px 20px;
+    font-size: 25px;
+    transition: 0.2ms all;
+}
+
+.brand a:hover{
+    color: blue;
+    transition: 0.2ms all;
+}

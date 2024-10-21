@@ -1,0 +1,11 @@
+.btnMenu {
+    color: white;
+    background-color: transparent;
+    border: 1px solid white;
+    
+}
+.btnMenu:hover {
+    color: blue;
+    border: 1px solid blue;
+    
+}
