@@ -4,8 +4,8 @@ import { faCartShopping } from '@fortawesome/free-solid-svg-icons';
 
 export default function CartWidget() {
   return (
-    <button className='btn btn-primary'>
-      <FontAwesomeIcon icon={faCartShopping} /> 2
+    <button className='btn btn-outline-secondary'>
+      <FontAwesomeIcon icon={faCartShopping} /> <span className='badge bg-danger'>0</span>
     </button>
   );
 };
